@@ -4,7 +4,7 @@
 [ext_resource type="Texture2D" uid="uid://lav07qnn4lok" path="res://icon.svg" id="1_hu12l"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_vro1k"]
-size = Vector2(588, 20)
+size = Vector2(600, 20)
 
 [node name="Node2D" type="Node2D"]
 
